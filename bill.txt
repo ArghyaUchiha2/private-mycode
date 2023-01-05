@@ -1,0 +1,1 @@
+Thank you {{name}} for purchasing {{item}} from our {{store}} outlet. Please visit again.
